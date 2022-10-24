@@ -1,0 +1,16 @@
+create table data (
+    houseID VARCHAR NOT NULL PRIMARY KEY,
+    longitude VARCHAR,
+    latitude VARCHAR,
+    housing_median_age VARCHAR,
+    total_rooms VARCHAR,
+    total_bedrooms VARCHAR,
+    population VARCHAR,
+    households VARCHAR,
+    median_income VARCHAR,
+    median_house_value VARCHAR,
+    ocean_proximity VARCHAR
+);
+
+.separator ","
+.import data/housing.csv data
