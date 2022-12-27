@@ -5,7 +5,7 @@ This project uses Python to connect to a SQLite database containing information 
 # Prerequisites
 Before you begin, make sure you have the following requirements installed on your system:
 
-* Python 3
+* Python3
 * SQLite
 
 # Getting Started
