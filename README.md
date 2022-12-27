@@ -13,7 +13,7 @@ Before you begin, make sure you have the following requirements installed on you
 Clone the repository to your local machine:
 
 ```
-git clone git@github.com:your-username/Database-Systems-Project.git
+git clone git@github.com:your-username/California-Housing-Prices.git
 ```
 
 Navigate to the project directory:
